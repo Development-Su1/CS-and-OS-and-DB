@@ -1,5 +1,4 @@
 # 시스템 콜 (System Call)
-___
 fork( ), exec( ), wait( )와 같은 것들은 Process 생성과 제어를 위한 System call임.
 
 + fork, exec는 새로운 Process 생성과 관련이 되어 있다.   
