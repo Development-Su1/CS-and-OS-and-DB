@@ -1,4 +1,4 @@
-# IPC(Inter Process Communication)
+# IPC (Inter Process Communication)
 
 프로세스는 독립적으로 실행된다. 즉, 독립 되어있다는 것은 다른 프로세스에게 영향을 받지 않는다고 말할 수 있다. (스레드는 프로세스 안에서 자원을 공유하므로 영향을 받는다)
 
