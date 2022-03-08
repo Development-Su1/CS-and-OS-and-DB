@@ -18,7 +18,7 @@
 
 
 **PCB(Process Control Block)**   
-프로세스 메타데이터들을 저장해 놓는 곳, 한 PCB 안에는 한 프로세스의 정보가 담김
+> 프로세스 메타데이터들을 저장해 놓는 곳, 한 PCB 안에는 한 프로세스의 정보가 담김
 
 <img width="306" alt="img" src="https://user-images.githubusercontent.com/95405810/157158202-378b6cc1-bc6c-40bd-8a24-a8427f2f26d9.PNG">
 
